@@ -1,6 +1,6 @@
 ### About Me 😄
 * Hey there, I am Nilav Prajapati.
-* A 3nd Year Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
+* A 3rd Year Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
 * Developer at [BlocSoc](https://github.com/BlocSoc-iitr).
 
 <hr>
