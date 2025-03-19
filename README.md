@@ -7,19 +7,20 @@
 ### Interested In:
 - Cryptography
 - Learning about distributed systems and core blockchain
-- Blockchain development
-
 
 ### Currently:
-- Developer at [Lighthouse](https://www.lighthouse.storage/)
+- Developer at [Catalysis Network](https://catalysis.network/)
 - Head Of Development at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Projects I'm working on:
 - [Selene](https://github.com/BlocSoc-iitr/selene)
 
+Prev:
+  - Developer at [Lighthouse](https://www.lighthouse.storage/)
+
 Achievements and Projects:
-- 1st Prize at EthGlobal Scaling Ethereum 2024 ([Sketch-stylus](https://ethglobal.com/showcase/sketch-stylus-x2wuz))
-- [FRI](https://github.com/gerceboss/rFRI) implementation in Rust.
+- 1st Prize in Anon-Aadhar track at EthIndia 2024 ([Tollchain](https://devfolio.co/projects/tollchain-3125))
+- 1st Prize in Arbitrum Stylus track at EthGlobal Scaling Ethereum 2024 ([Sketch-stylus](https://ethglobal.com/showcase/sketch-stylus-x2wuz))
 
 Medium: [nilav](https://medium.com/@nilavprajapati2004)
 
