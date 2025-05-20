@@ -5,11 +5,11 @@
 <hr>
 
 ### Interested In:
-- Cryptography
 - Learning about distributed systems and core blockchain
+- Cryptography
 
 ### Currently:
-- Developer at [Catalysis Network](https://catalysis.network/)
+- Junior Developer at [Catalysis Network](https://catalysis.network/)
 - Head Of Development at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Projects I'm working on:
